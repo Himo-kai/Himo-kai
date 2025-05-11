@@ -1,17 +1,23 @@
-### ~ Welcome to my little corner of GitHub. I'm <sup>***Himokai***</sup>
+### ~ Welcome to my little corner of GitHub. <sub>***I'm***</sub> ***Himokai*** <sup>*ᵢ ₕₒₚₑ ᵧₒᵤ բᵢₙᶁ ₛₒₘₑₜₕᵢₙ₉ ᵧₒᵤ ₗᵢₖₑ.*<sup>*ᵐ̶͞ᵃ̶͞ʸ̶͞ᵇ̶͞ᵉ̶͞ ̶͞ᵗ̶͞ʰ̶͞ᵃ̶͞ᵗ̶͞ ̶͞ˢ̶͞ᵒ̶͞ᵐ̶͞ᵉ̶͞ᵗ̶͞ʰ̶͞ᶦ̶͞ⁿ̶͞ᵍ̶͞ˢ̶͞ ̶͞ᵐ̶͞ᵉ̶͞ (⁀ᗢ⁀)*</sup></sup>
+### The ***<sub>ME</sub>*** part….
++ Just a curious soul who likes coding, debating ideologies and ethics, and getting lost in Wikipedia rabbit holes. (Who wants to talk [SCP’s](https://scp-wiki.wikidot.com/)?)
 
-### The <sup>ME</sup> part….
-	Just a curious soul who likes coding, debating philosphies and ethics, and getting lost in Wikipedia rabbit holes. (> Who wants to talk SCP’s lmao)
-	I’m a fan of minimalism, space stuff, and building things that (> hopefully) make life a little better.
-	Of course I also binge Anime a little to much at times
++ I’m a fan of minimalism, space stuff, and building things that (hopefully) make life a little better.
+Of course I also binge Anime, sometimes a little too much.
 
-## How I waste my <sub>free time</sub>
-	Messing around with code (> sometimes it works, if I’m lucky.)
- 	Learning new tech (> and forgetting half of it,)
- 	Philosophy, astronomy, and random science facts
- 	Finding simple work-arounds to weird problems
+### How I waste my ***<sub>FREE TIME</sub>***
++ Messing around with code (sometimes it works, if I’m lucky.)
 
-### Don’t be shy 龴'''(ಠ|۾ಠ) ᴥ (ಠ۾|ಠ)'''龴
++ Learning new tech (and forgetting half of it,)
+
++ Philosophy, astronomy, and random science facts
+
++ Finding simple work-arounds to weird problems
+
+**Why?**
+> *Because it's really cool.*
+
+### Don’t be shy ***<sup>龴~</sup>****<ins>ↀ</ins>*۾ ***<sub>ᴥ</sub>*** ۾*<ins>ↀ</ins>****<sup>~龴</sup>***
 I’m always down to chat, swap ideas and ideals, or just geek out about something cool. 
 Feel free to open an issue, drop a comment, or hit me up on [Twitter/X](https://x.com/_Himokai_) or on [Reddit](https://www.reddit.com/user/Himo-kai/).
 
