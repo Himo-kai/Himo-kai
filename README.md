@@ -1,4 +1,4 @@
-### ~ Welcome to my little corner of GitHub. <sub>***I'm***</sub> ***Himokai*** <sup>*ᵢ  ₑₙⱼₒᵧ ᵧₒᵤᵣ ₛₜₐᵧ..*<sup>*(⁀ᗢ⁀)*</sup></sup>
+### ~ Welcome to my little corner of GitHub. <sub>***I'm***</sub> ***Himokai***<sup>*ₑₙⱼₒᵧ ᵧₒᵤᵣ ₛₜₐᵧ..*<sup>*(⁀ᗢ⁀)*</sup></sup>
 ### The ***<sub>ME</sub>*** part….
 + Just a curious soul who likes coding, debating ideologies and ethics, and getting lost in Wikipedia rabbit holes. (Who wants to talk [SCP’s](https://scp-wiki.wikidot.com/)?)
 
