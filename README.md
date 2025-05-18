@@ -6,22 +6,20 @@
 Of course I also binge Anime, sometimes a little too much.
 
 ### How I waste my ***<sub>FREE TIME</sub>***
-+ Messing around with code (sometimes it works, if I’m lucky.)
++ Messing around with code (I have no idea what I'm doing. Sometimes it works, if I’m lucky.)
 
-+ Learning new tech (and forgetting half of it,)
++ Nothing. Sometimes I just do nothing, and it's cool. 
 
-+ Philosophy, astronomy, and random science facts
++ Anime and which ever game I'm invested in at the time. Currently that would be Dota 2 
 
-+ Finding simple work-arounds to weird problems
++ Bars.... 
 
-**Why?**
-> *Because it's really cool.*
 
 ### Don’t be shy ***<sup>龴~</sup>****<ins>ↀ</ins>*۾ ***<sub>ᴥ</sub>*** ۾*<ins>ↀ</ins>****<sup>~龴</sup>***
-I’m always down to chat, swap ideas and ideals, or just geek out about something cool. 
+Lets network, make nice and become friends. 
 Feel free to open an issue, drop a comment, or hit me up on [Twitter/X](https://x.com/_Himokai_) or on [Reddit](https://www.reddit.com/user/Himo-kai/).
 
-> “Still figuring things out, one project at a time.”
+> “Still figuring things out, one potatoe chip at a time.”
 ---
 <!---
 Himo-kai/Himo-kai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
