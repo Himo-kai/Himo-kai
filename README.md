@@ -1,11 +1,12 @@
-### ~ Welcome to my little corner of GitHub. ***I'm Himokai*** | *<sup>(⁀ᗢ⁀)</sup>*
+### ~ Welcome to my little corner of GitHub. ***I'm Himokai*** | 
 
+## ***<sub>THE ME PART</sub>***
 + Just a curious soul who likes coding, debating ideologies and ethics, and getting lost in Wikipedia rabbit holes. (Who wants to talk [SCP’s](https://scp-wiki.wikidot.com/)?)
 
 + I’m a fan of minimalism, space stuff, and building things that (hopefully) make life a little better.
 Of course I also binge Anime, sometimes a little too much.
 
-### ***<sub>FREE TIME</sub>***
+## ***<sub>FREE TIME</sub>***
 + Messing around with code (I have no idea what I'm doing. Sometimes it works, if I’m lucky.)
 
 + Nothing. Sometimes I just do nothing, and it's cool. 
@@ -15,11 +16,11 @@ Of course I also binge Anime, sometimes a little too much.
 + Bars.... 
 
 
-### ***<sub>DON'T BE SHY</sub>***
+## ***<sub>DON'T BE SHY</sub>***
 Lets network, make nice and become friends. 
 Feel free to open an issue, drop a comment, or hit me up on [Twitter/X](https://x.com/_Himokai_) or on [Reddit](https://www.reddit.com/user/Himo-kai/).
 
-> “Still figuring things out, one potatoe chip at a time.”
+> “Still figuring things out, one potatoe chip at a time.” *<sup>(⁀ᗢ⁀)</sup>*
 ---
 <!---
 Himo-kai/Himo-kai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
